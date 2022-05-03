@@ -1,7 +1,7 @@
 ## 재진의 어드벤쳐 타임-beta.1
 
 https://drive.google.com/file/d/1eghVTa8St0agk4fYqCLKv6YpfRUF_0um/view?usp=sharing
-
+링크 진입 후 zip 파일 압축 푸시고 My.exe 파일을 실행 하심 댑니다
 
 # ***권재진의 어드벤쳐 타임***
 
